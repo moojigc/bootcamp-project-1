@@ -1,2 +1,2 @@
 # bootcamp-project-1
-demo repo
+week1-day2-html-css
